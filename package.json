@@ -1,0 +1,16 @@
+{
+  "name": "users-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node integration_tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
